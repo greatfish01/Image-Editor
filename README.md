@@ -1,4 +1,5 @@
 Image Editing Application
+
 This application provides a graphical user interface (GUI) implemented in Java Swing (JFrame) for basic image loading, editing, and saving functionalities.
 
 Features
@@ -31,4 +32,4 @@ An Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
 Clone this repository to your local machine.
 Open the project in your preferred IDE.
 3. Run the Application
-Locate and run the Main.java file to launch the GUI application.
+Locate and run the ImageTest.java file to launch the GUI application.
